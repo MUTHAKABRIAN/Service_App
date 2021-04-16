@@ -16,7 +16,7 @@
         android:clickable="true"
         android:elevation="8dp"
         android:focusable="true"
-        app:commitIcon="@drawable/search"
+        app:commitIcon="@drawable/baseline_search_black_18dp"
         app:labelVisibilityMode="labeled"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
