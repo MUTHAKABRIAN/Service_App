@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Service App</string>
+    <string name="home">home</string>
+    <string name="explore">explore</string>
+    <string name="profile">profile</string>
+    <string name="search">search</string>
 </resources>
